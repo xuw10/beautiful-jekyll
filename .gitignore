@@ -3,6 +3,8 @@ _site
 .sass-cache
 .vagrant
 .ini
+.csv
+
 
 # general
 .DS_Store
