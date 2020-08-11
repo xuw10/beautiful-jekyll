@@ -7,7 +7,7 @@ subtitle: MBA Candidate at UofT Rotman and Data Scientist
 **Xun Wang, Ph.D.**
 
 - (647) 904 1001
-- [xun.wang21@rotman.utoronto.ca]
+- [xunw.wang@rotman.utoronto.ca]
 - [https://www.linkedin.com/in/xunwangpitt/]
 
 ### EDUCATION
