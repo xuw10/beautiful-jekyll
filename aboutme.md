@@ -95,20 +95,12 @@ to learn the distance metric between embedded feature vectors in the dense space
 
 -    Predicted the purchase probabilities of a new movie release by Fox movie for each customer with a logistic regression model
 
-       .
+   
 
 **ADDITIONAL**** INTERESTS ****AND**** ACHIEVEMENTS ****SKILLS**
 
 - Statistical modeling, Regressions, Algorithms, Machine Learning, Natural Language Processing, Recommendation Algorithms
 - Python, Linux Shell Script, SQL, Java, C++, Amazon Web Services, Apache Spark, Scala
--
-Stock trading for 4 years with a . Pportfolio return ofwas
-#
-[ANNOTATION:
-
-BY &#39;Cindy Chong&#39;
-ON &#39;2019-09-23T09:41:00&#39;CC
-NOTE: &#39;Is 52% your average…if so had average return. Also add hobbies/interests  outside of work/school&#39;]
-52%
+- Stock trading for 4 years with a portfolio return of 52%. was
 
 Permanent Residency: Canada
